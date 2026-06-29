@@ -1,0 +1,6 @@
+streamlit>=1.24.0
+openai>=2.36.0
+openrouter>=0.10.0
+pdfplumber>=0.9.0
+numpy>=1.24.0
+scikit-learn>=1.6.0
